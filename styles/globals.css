@@ -284,7 +284,6 @@ text-align: end;
   float: right;
   padding: 40px 10px;
   position: relative;
-  
 }
 
 .footer-container{
@@ -625,7 +624,7 @@ margin-top: 160px;
   }
   .hero-banner-image{
     width: 77%;
-    height: 62%;
+    height: 55%;
     top: -2%;
     right: -6%;
   }
