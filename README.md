@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Project Demo
+
+https://ecommerce-app-using-next-js-and-sanity.vercel.app/
 
 ## Getting Started
 
